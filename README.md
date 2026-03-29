@@ -1,38 +1,9 @@
-# Hi, I'm Taha 👋
+# About Me:
+I am currently working as an AI intern at a pharmaceutical company, developing a cross-platform mobile application that leverages Retrieval-Augmented Generation (RAG) to improve information retrieval and response generation. I have hands-on experience with JavaScript, TypeScript, React, React Native, SQL, MongoDB, and PostgreSQL. I am skilled in API integration and utilizing Backend-as-a-Service (BaaS) solutions like Firebase, Supabase, along with a good understanding of backend architecture for building applications.
 
-I'm a developer currently learning **Mobile Development** with React Native.
-Previously, I built a foundation in **Backend Development** and I'm still growing every day.
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taha-sayyed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@devtahasayyed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tahasayyedk00@gmail.com) 
 
-## 🧰 Tech Stack
-
-**Languages**
-- Java, JavaScript, TypeScript
-
-**Backend**
-- Node.js, Express.js
-
-**Databases**
-- SQL & NoSQL
-
-**Mobile**
-- React Native *(learning)*
-
----
-
-## 📌 Currently
-
-- 📱 Learning Mobile Development with React Native
-- 🔨 Building on my backend knowledge with Node.js & Express
-
----
-
-## ✍️ Writing
-
-I document my learning journey on Hashnode.
-👉 [Read my blogs](https://hashnode.com/@taha-sayyed)
-
----
-
-*Always learning. Always building.*
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
